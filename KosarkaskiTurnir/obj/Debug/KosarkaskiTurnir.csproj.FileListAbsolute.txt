@@ -1,0 +1,10 @@
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\bin\Debug\KosarkaskiTurnir.exe.config
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\bin\Debug\KosarkaskiTurnir.exe
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\bin\Debug\KosarkaskiTurnir.pdb
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\obj\Debug\KosarkaskiTurnir.csproj.AssemblyReference.cache
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\obj\Debug\KosarkaskiTurnir.csproj.CoreCompileInputs.cache
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\obj\Debug\KosarkaskiTurnir.exe
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\obj\Debug\KosarkaskiTurnir.pdb
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sukur\source\repos\KosarkaskiTurnir\KosarkaskiTurnir\obj\Debug\Kosarkas.295646B0.Up2Date

@@ -1,0 +1,70 @@
+
+  {
+    "A": [
+      {
+        "Ime": "Kanada",
+        "ISOCode": "CAN",
+        "FibaRanking": 7
+      },
+      {
+        "Ime": "Australija",
+        "ISOCode": "AUS",
+        "FibaRanking": 5
+      },
+      {
+        "Ime": "Grčka",
+        "ISOCode": "GRE",
+        "FibaRanking": 14
+      },
+      {
+        "Ime": "Španija",
+        "ISOCode": "ESP",
+        "FibaRanking": 2
+      }
+    ],
+    "B": [
+      {
+        "Ime": "Nemačka",
+        "ISOCode": "GER",
+        "FibaRanking": 3
+      },
+      {
+        "Ime": "Francuska",
+        "ISOCode": "FRA",
+        "FibaRanking": 9
+      },
+      {
+        "Ime": "Brazil",
+        "ISOCode": "BRA",
+        "FibaRanking": 12
+      },
+      {
+        "Ime": "Japan",
+        "ISOCode": "JPN",
+        "FibaRanking": 26
+      }
+    ],
+    "C": [
+      {
+        "Ime": "Sjedinjene Države",
+        "ISOCode": "USA",
+        "FibaRanking": 1
+      },
+      {
+        "Ime": "Srbija",
+        "ISOCode": "SRB",
+        "FibaRanking": 4
+      },
+      {
+        "Ime": "Južni Sudan",
+        "ISOCode": "SSD",
+        "FibaRanking": 34
+      },
+      {
+        "Ime": "Puerto Riko",
+        "ISOCode": "PRI",
+        "FibaRanking": 16
+      }
+    ]
+  }
+
